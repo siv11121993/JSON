@@ -1,0 +1,12 @@
+{
+	"name": "Ivan",
+	"lastName": "Sauchuk",
+	"age": "28",
+	"adress": {
+		"country": "Lithuania",
+		"city": "Vilnius"
+	},
+	"phoneNumber": [
+		"123456789"
+	]
+}
